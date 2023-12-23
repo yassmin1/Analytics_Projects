@@ -4,9 +4,11 @@ Welcome to the Data Analytics Projects Repository! This repository houses a coll
 ## Projects
 
 ### [Police data analysis](link_to_project_1)
-- Brief description of the project.
-- Key technologies and tools used.
-- Any specific insights or outcomes.
+- The primary objective of the data analytics project focused on a police dataset is to derive significant insights that can drive enhancements in police management, safety protocols, and enforcement strategies.
+-I am exploring several key questions within this research:
+Numerical Evidence of Racial and Gender Bias: One of our primary areas of focus is the examination of numerical evidence pertaining to racial and gender bias. We aim to delve into data and statistics to discern whether there are disparities or inequities in law enforcement interactions, arrests, or outcomes based on factors such as race and gender. Our objective is to uncover and analyze patterns, if any.
+-Environmental Factors Impacting Police Behavior: In this aspect, we explore the multifaceted relationship between environmental conditions, such as weather, and the conduct of police officers. We endeavor to understand how external factors like extreme heat, cold, rain, or snow can influence law enforcement responses and decision-making. By dissecting the impact of environmental variables on police actions, we seek to enhance our comprehension of the dynamic interplay between weather conditions and law enforcement behavior, ultimately contributing to more nuanced and context-aware policing strategies..
+
 
 ### [AB test of website](link_to_project_2)
 - Brief description of the project.
