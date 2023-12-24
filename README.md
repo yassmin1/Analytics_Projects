@@ -12,6 +12,11 @@ Numerical Evidence of Racial and Gender Bias: One of our primary areas of focus 
 ![image](https://github.com/yassmin1/Analytics_Projects/assets/38767315/c8fd12c1-60b0-4b49-a8c1-f29766813364)
 
 
+![image](https://github.com/yassmin1/Analytics_Projects/assets/38767315/b6a3c032-3045-4028-89e6-a6866cb1130d)
+![image](https://github.com/yassmin1/Analytics_Projects/assets/38767315/2687c470-6f26-4d5f-9d36-472e4bea8083)
+
+The search rate for Black males is the highest, followed by Hispanic males, then White males, and finally Asian males. The search rate for Black females is the second highest, followed by Hispanic females, then White females, and finally Asian females. This suggests that Black drivers, regardless of gender, are more likely to be searched than other race groups.
+
 
 
 ### [AB test of website](link_to_project_2)
