@@ -10,12 +10,10 @@ Numerical Evidence of Racial and Gender Bias: One of our primary areas of focus 
 - Environmental Factors Impacting Police Behavior: In this aspect, we explore the multifaceted relationship between environmental conditions, such as weather, and the conduct of police officers. We endeavor to understand how external factors like extreme heat, cold, rain, or snow can influence law enforcement responses and decision-making. By dissecting the impact of environmental variables on police actions, we seek to enhance our comprehension of the dynamic interplay between weather conditions and law enforcement behavior, ultimately contributing to more nuanced and context-aware policing strategies.
 - Insights: 
 ![image](https://github.com/yassmin1/Analytics_Projects/assets/38767315/c8fd12c1-60b0-4b49-a8c1-f29766813364)
-
-
 ![image](https://github.com/yassmin1/Analytics_Projects/assets/38767315/b6a3c032-3045-4028-89e6-a6866cb1130d)
 ![image](https://github.com/yassmin1/Analytics_Projects/assets/38767315/2687c470-6f26-4d5f-9d36-472e4bea8083)
 
-The search rate for Black males is the highest, followed by Hispanic males, then White males, and finally Asian males. The search rate for Black females is the second highest, followed by Hispanic females, then White females, and finally Asian females. This suggests that Black drivers, regardless of gender, are more likely to be searched than other race groups.       
+- The search rate for Black males is the highest, followed by Hispanic males, then White males, and finally Asian males. The search rate for Black females is the second highest, followed by Hispanic females, then White females, and finally Asian females. This suggests that Black drivers, regardless of gender, are more likely to be searched than other race groups.       
 - The arrest rate is highest between 10pm and 3am, and lowest between 6am and 10am. This is likely due to the fact that more people are out and about during the evening and night, and therefore more likely to be stopped by the police.
 The arrest rate is also higher on weekends than on weekdays, which is likely due to the fact that people are more likely to be out and about on weekends.
 The arrest rate has been declining over the past few years, which is likely due to a number of factors, including increased police training and awareness of racial profiling.
